@@ -1,0 +1,64 @@
+html, body {
+	font-family: Comic Sans MS;
+	background-color: #3366ff;
+}
+
+button {
+	font-family: Comic Sans MS;
+}
+
+input {
+	font-family: Comic Sans MS;
+}
+
+button {
+  color: black;
+  background-color: #ffe4a9;
+  padding: 1% 1.5%;
+  margin: 1%;
+  text-decoration: none;
+	border: none;
+	border-radius: 12px;
+  cursor: pointer;
+	transition: 0.5s;
+}
+
+button:hover {
+  background-color: #ffaf00;
+}
+
+.hdlink {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.hdlink:hover {
+	text-decoration: underline;
+}
+
+.sidebar {
+	float: left;
+	margin-right: 2.5%;
+	background-color: #3366ff;
+	padding: 4%;
+	height: 100%;
+}
+
+.widget {
+	margin: 1.5%;
+	border: 1px solid black;
+	padding: 3%;
+	float: left;
+}
+
+.widget2 {
+	margin: 2%;
+	border: 1px solid black;
+	padding: 50px;
+	width: 30%;
+}
+
+#guildlist {
+	padding: 100px;
+	background-color: powderblue;
+}
