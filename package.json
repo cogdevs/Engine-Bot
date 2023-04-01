@@ -1,17 +1,27 @@
 {
   "name": "engine-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "A multipurpose Discord bot.",
+  "main": "src/main.js",
   "scripts": {
     "test": "node main.js"
   },
   "author": "",
   "license": "GPL-3.0",
   "dependencies": {
-    "discord.js": "^14.8.0"
+    "discord.js": "^14.8.0",
+    "fs": "^0.0.1-security"
   },
   "devDependencies": {
-    "eslint": "^8.36.0"
-  }
+    "eslint": "^8.37.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogdevs/Engine-Bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/cogdevs/Engine-Bot/issues"
+  },
+  "homepage": "https://github.com/cogdevs/Engine-Bot#readme"
 }
