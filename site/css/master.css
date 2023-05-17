@@ -2,7 +2,7 @@
 
 html, body {
 	font-family: sans-serif;
-  background-color: #3366ff;
+  background-image: linear-gradient(45deg, #6655ff, #3366ff);
 }
 
 h1 {
